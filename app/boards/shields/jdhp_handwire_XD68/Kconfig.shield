@@ -1,0 +1,2 @@
+config SHIELD_JDHP_HANDWIRE_XD68
+	def_bool $(shields_list_contains,jdhp_handwire_xd68)

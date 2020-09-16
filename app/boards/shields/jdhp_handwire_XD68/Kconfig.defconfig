@@ -1,0 +1,7 @@
+
+if SHIELD_JDHP_HANDWIRE_XD68
+
+config ZMK_KEYBOARD_NAME
+	default "Joshs XD68"
+
+endif
